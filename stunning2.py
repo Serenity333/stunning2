@@ -1,7 +1,7 @@
 #code to create a fun pattern with a Turtle via Python
 
 from turtle import *
-color('purple', 'green')
+color('black', 'red')
 begin_fill()
 while True:
     forward(200)
